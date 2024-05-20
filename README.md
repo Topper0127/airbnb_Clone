@@ -1,7 +1,7 @@
 # AirBnb-CLONE
 Hotel Booking App...
 
-Live = [https://myairbnb01.vercel.app/](https://airbnb-clone-tan-nine.vercel.app/)
+Live = [https://airbnb-clone-tan-nine.vercel.app/](https://myairbnb01.vercel.app/)
 
 #Features 
 - Book your trips and can cancel your trips.
